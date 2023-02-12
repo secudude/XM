@@ -1,4 +1,4 @@
-IP Camera Firmware  - Pt#1
+IP Camera Firmware  
 Firmware version 	  Hardware model 	        Download link 	  
                       RA50H10L 	https://download.xm030.cn/d/MDAwMDA0MTY= 	
 V4.02.R12.00001510.1 	IPC50H10L 	https://download.xm030.cn/d/MDAwMDA0MDU= 	
@@ -51,9 +51,6 @@ V4.02.R12.00014914.1 	IPC_HI3516D_N81820_RT3070 	https://download.xm030.cn/d/MDA
 V4.02.R12.00014915.1 	IPC_HI3516D_N81840_RT3070 	https://download.xm030.cn/d/MDAwMDAzNzA= 	
 V4.02.R12.00014927.1 	IPC_HI3516D_83H50N 	https://download.xm030.cn/d/MDAwMDA3ODg= 	
 
-IP Camera Firmware - Pt#2
-Firmware version 	       Hardware model 	                    Download link 	  
-
 V4.02.R12.00014960.1 	IPC_HI3516D_83H40AF_IVG 	https://download.xm030.cn/d/MDAwMDAzNjk= 	
 V4.02.R12.00014978.1 	IPC_HI3516D_83H20AF_IVG 	https://download.xm030.cn/d/MDAwMDAzNjg= 	
 V4.02.R12.00017501.1 	IPC_GM8136S_50V20PL-S 	https://download.xm030.cn/d/MDAwMDAzNjc= 	
@@ -105,9 +102,6 @@ V4.02.R12.00023668.1 	IPC_XM510_50X10-SW-S_WIFINVRXM712.712 	https://download.xm
 V4.02.R12.00023669.1 	IPC_XM510_50X10-SWL-S_WIFIXM712.712 	https://download.xm030.cn/d/MDAwMDAzMzA= 	
 V4.02.R12.00023670.1 	IPC_XM510_50X10-SWC-S_WIFINVRXM712.712 	https://download.xm030.cn/d/MDAwMDA4OTU=
 
-IP Camera Firmware - Pt#3
-Firmware version 	              Hardware model 	                        Download link 	
-
 V4.02.R12.000239A0.1 	IPC_XM510_RA50X10-C-S_WIFIXM712.712 	https://download.xm030.cn/d/MDAwMDA4ODk= 	
 V4.02.R12.000239A1.1 	IPC_XM510_50X10-SWI-S_WIFIXM712.712 	https://download.xm030.cn/d/MDAwMDA5MDg= 	
 V4.02.R12.00031520.1 	IPC_HI3516CV300_50H20L_AE 	https://download.xm030.cn/d/MDAwMDAzMjk= 	
@@ -157,9 +151,6 @@ V5.00.R02.00050986.1 	IPC_HI3516EV200_RM50H20L-ES_XM713G 	https://download.xm030
 V5.00.R02.000489A7.1 	HI3516CV500_50H20AI 	https://download.xm030.cn/d/MDAwMDEwOTg= 	
 V5.00.R02.000479A9.1 	IPC_HI3516DV300_80H50AI 	https://download.xm030.cn/d/MDAwMDEwOTk= 	
 V5.00.R02.00045665.1 	IPC_ALIOS_XM510_RA50X20_WIFIXM712 	https://download.xm030.cn/d/MDAwMDA5NzY= 
-
-IP Camera Firmware - Pt#4
-Firmware version 	                Hardware model 	                      Download link 
 
 V5.00.R02.000309F8.1	IPC_XM550_50X50-WNG_WIFINVRXM713G_TB	https://download.xm030.cn/d/MDAwMDEzNzg=	
 V5.00.R02.000309F5.1	IPC_XM535_80X40PT.Nat.dss.OnvifS.HIK	https://download.xm030.cn/d/MDAwMDEzNjI=	
